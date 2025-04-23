@@ -14,8 +14,8 @@ loan-risk-etl/
 │   └── Loading.sql                 # Stored procedure for ETL process with audit tracking
 ├── assets/
 │   ├── ERD.png
-│   ├── Borrower Profile and Credit Risk Characteristics.png
-│   └── Loan Portfolio Overview and Risk Exposure.png
+│   ├── Loan Portfolio Overview and Risk Exposure.png
+│   └── Borrower Profile and Credit Risk Characteristics.png
 └── README.md
 ```
 
